@@ -35,3 +35,6 @@ with conn:
     for item in varPerson:
         msg= "First Name: ()n\LastName:()n\Email: ()".format(item[0],item[1],item[2])
     print(msg)
+
+
+'information.docx', 'Hello.txt', 'myImage.png', 'myMovie.png', 'World.txt', 'data.pdf', 'myPhoto.jpg'
